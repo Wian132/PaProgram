@@ -1,0 +1,134 @@
+                                                                                     TAX INVOICE
+                                                                                                                                                                      Computer Generated Copy
+                                                                                  VECTOR LOGISTICS (PTY)LTD
+                                                                       Co.Reg.No.2002/009081/07      VAT Reg. No.   4380198566
+
+
+
+
+             CSD Gauteng, PO Box 46, Centurion, 0157                                                                                                            Page           1 of     3
+             Tel: 0861832273
+
+               Delivery Address:                                  Invoice Address:                                             INVOICE NUMBER               0291912668
+                                                                                                                               DOCUMENT DATE                20.02.2024
+               CHICKEN LICKEN ACORNHOEK                           CHICKEN LICKEN ACORNHOEK
+                                                                                                                               CUSTOMER NO.                 0000181844
+               NKOMAZI CHICKEN RETAILERS (PTY                     NKOMAZI CHICKEN RETAILERS (PTY
+                                                                                                                               DELIVERY NO.                 8035042906
+               SHOP 62, ACORNHOEK MALL,                           P.O. Box    475
+                                                                                                                               DELIVERY DATE                20.02.2024
+               R40 GREENVALLEY TURNOFF                            1320 MALEMANE
+                                                                                                                               SHIPMENT                     3162214
+               1201 NELSPRUIT
+                                                                                                                               CALL CNTR AGENT              RXP_PRXY_P11
+                                                                                                                               ORDER DATE                   16.02.2024
+                                                                                                                               CUSTOMER ORDER NO.           16/02/2024
+
+
+
+
+             Terms of Payment: Payable 15days after statement
+
+
+   EAN                     Code       Description                                   UoM   Quantity     Mass          Auth no     Price   Disc/Surch   Taxable Value      Tax Value          Inclusive Value
+
+                          507373    CLC   HAMBURGER BOXES (CLAMSHELL) 300/BOX       BOX       2           20.00                 434.71                     869.42            130.41               999.83
+                          507374    CLC   DINNER SNACK BOX           200/BOX        BOX       2           22.00                 403.94                     807.88            121.18               929.06
+                          507376    CLC   SPECIAL BURGER (GENERIC) BOX 750/BOX      BOX       1           14.00                 789.39                     789.39            118.41               907.80
+                          507400    CLC   SMALL HOUSE (CLAMSHELL)       300/BOX     BOX       1           13.00                 455.87                     455.87             68.38               524.25
+                          509856    CLC   SPECIAL GENERIC INSERT (1000)             CS        1            2.48                208.60                     208.60              31.29               239.89
+                          510135    CLC   MANGO ACHAAR 1x9KG BUCKET                 CS        1            8.00                278.96                     278.96              41.84               320.80
+                          512086    CLC   GP2 BAG (CPT) 1X1000                      CS        1            2.61                299.15                     299.15              44.87               344.02
+                          512088    CLC   GP LINER (CPT) 1X1000                     CS        1            1.20                130.98                     130.98              19.65               150.63
+                          512089    CLC   LOAD UP CHIP BAG (CPT) 1X1000             CS        1            1.12                133.52                     133.52              20.03               153.55
+                          512840    CLC   SOULSLAW DRESSING 1X10KG                  CS        1           10.00                345.42                     345.42              51.81               397.23
+                          512841    CLC   DREAMY CREAMY SAUCE 1X10KG                CS        1           10.00                379.28                     379.28              56.89               436.17
+                          512842    CLC   SOULFIRE BOTTLE 24X100ML                  CS        1            2.40                259.91                     259.91              38.99               298.90
+                          517048    CLC   HOTWNGS BREADING 15KG                     BAG       5           75.00                 663.57                   3317.85             497.68              3815.53
+                          517049    CLC   BREADING NORMAL 15KG                      BAG       5           75.00                 525.60                   2628.00             394.20              3022.20
+                          517070    CLC   SPECIAL MILK 10X750G                      CS        1            7.50                1730.10                   1730.10             259.52              1989.62
+                          517439    CLC   SOULFIRE SACHETS 504X15G                  CS        2           15.12                453.01                     906.02             135.90              1041.92
+                          517506    CLC   LIQUIFRUIT BERRY BLAZE 24X300ML           CS        2           14.64                199.66                     399.32              59.90               459.22
+                          517507    CLC   LIQUIFRUIT BREAKFAST PUNCH 24X300ML       CS        1            7.32                199.66                     199.66              29.95               229.61
+                          517993    CLC   MINI BAGS (LITH) 4X250                    CS        1            5.97                592.85                     592.85              88.93               681.78
+
+
+
+
+[ MaskID: d8b65eb1-8b8b-472a-b109-24866d0be1a8 ]
+                                                                                   TAX INVOICE
+                                                                               VECTOR LOGISTICS (PTY)LTD
+                                                                      Co.Reg.No.2002/009081/07     VAT Reg. No.   4380198566                                Page       2 of    3
+
+
+
+
+               Delivery Address:                                  Invoice Address:
+               CHICKEN LICKEN ACORNHOEK                           CHICKEN LICKEN ACORNHOEK
+               NKOMAZI CHICKEN RETAILERS (PTY                     NKOMAZI CHICKEN RETAILERS (PTY
+               SHOP 62, ACORNHOEK MALL,                           P.O. Box    475
+               R40 GREENVALLEY TURNOFF                            1320 MALEMANE
+               1201 NELSPRUIT
+
+
+
+
+             Terms of Payment: Payable 15days after statement
+
+
+   EAN                     Code       Description                                 UoM   Quantity     Mass          Auth no     Price   Discount   Taxable Value    Tax Value       Inclusive Value
+
+                          519299 CLC 150ML SAL BOWL & LID (500) - T334            CS        1           4.75                 522.35                   522.35           78.35             600.70
+                          519300 CLC 350ML SAL BOWL & LID (350) - T308            CS        1           6.40                 570.49                   570.49           85.57             656.06
+                          5604   CLC FZN HOT WING 18 BAGS PER CASE                CS       20          306.00                 899.56                 17991.20        2698.68           20689.88
+                          21413     CLC FZN 8PCE CUT SOULFIRE 6x2.713KG           CS       40          651.24                 647.18                 25887.20        3883.08           29770.28
+                          40240     CLC FZN 8 PIECE INJECT 6x2.713KG              CS       20          325.62                 654.90                 13098.00        1964.70           15062.70
+                          41760     CLC FZN BURGER CHKN SLYDER 8x900G             CS        1            7.20                535.36                   535.36           80.30             615.66
+                          41761     CLC FZN BURGER LOVE ME TENDER 7x1.2KG         CS        1            8.48                788.75                   788.75          118.31             907.06
+                          508294    CLC SOFT SERVE 2X5LT                          CS        2           20.00                259.20                    518.40          77.76             596.16
+                          515751    CLC SLYDER BUN 24X8                           CS        1            5.10                388.34                   388.34           58.25             446.59
+                          515752    CLC SUPERLOAF 1X12                            CS        1            8.35                253.43                   253.43           38.01             291.44
+                          515753    CLC BIG JOHN BUN 29X2                         CS        2            8.00                146.66                   293.32           44.00             337.32
+                          516403    CLC SURECRISP FRIES 12X850G                   CS       15          153.00                 371.68                  5575.20         836.28            6411.48
+                          518641    CLC LICKEN LOAF 60X1                          CS       10           40.40                175.58                   1755.80         263.37            2019.17
+                          CHEP05    CHEP COLLAPSABLE CRATE05                      CR       14            0.14                 63.00                   882.00          132.30            1014.30
+
+
+
+                                    Trip Number:
+                                    Customer VAT Number: 4700248042
+
+
+
+
+[ MaskID: d8b65eb1-8b8b-472a-b109-24866d0be1a8 ]
+                                                                                TAX INVOICE
+                                                                            VECTOR LOGISTICS (PTY)LTD
+                                                                   Co.Reg.No.2002/009081/07     VAT Reg. No.   4380198566                                Page       3 of     3
+
+
+
+
+               Delivery Address:                                Invoice Address:
+               CHICKEN LICKEN ACORNHOEK                         CHICKEN LICKEN ACORNHOEK
+               NKOMAZI CHICKEN RETAILERS (PTY                   NKOMAZI CHICKEN RETAILERS (PTY
+               SHOP 62, ACORNHOEK MALL,                         P.O. Box    475
+               R40 GREENVALLEY TURNOFF                          1320 MALEMANE
+               1201 NELSPRUIT
+
+
+
+
+             Terms of Payment: Payable 15days after statement
+
+
+   EAN                     Code       Description                              UoM   Quantity     Mass          Auth no     Price   Discount   Taxable Value    Tax Value        Inclusive Value
+
+
+
+
+                                                                                     Quantity     Mass          Volume              Curr        Taxable Value    Tax Value       Inclusive Value
+                                                                                       160          1852.04        4447             ZAR          83792.02        12568.80            96360.82
+
+[ MaskID: d8b65eb1-8b8b-472a-b109-24866d0be1a8 ]
+
