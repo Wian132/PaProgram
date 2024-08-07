@@ -23,12 +23,8 @@ Installation
 To run this application locally, follow these steps:
 
 Clone the Repository:
-bash
-Copy code
 git clone https://github.com/yourusername/yourrepository.git
 Navigate to the Project Directory:
-bash
-Copy code
 cd yourrepository
 Open the HTML File:
 Open index.html in your preferred web browser.
